@@ -13,5 +13,7 @@ npm is a node packet manager which is used to download the dependencied and pack
 
 grunt is a js task runner
 
+namespace->name collision 
+
 
 
