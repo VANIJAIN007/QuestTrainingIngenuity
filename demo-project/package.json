@@ -12,9 +12,8 @@
   "author": "VaniJan",
   "license": "ISC",
   "devDependencies": {
+    "grunt": "^1.5.3",
+    "tslint": "^6.1.3",
     "typescript": "^4.8.3"
-  },
-  "dependencies": {
-    "grunt": "^1.5.3"
   }
 }
