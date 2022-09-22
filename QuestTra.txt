@@ -11,5 +11,7 @@ Quest framework allows us to diiferent levels lower level pixijs and phasor, on 
 
 npm is a node packet manager which is used to download the dependencied and packages used in our game
 
+grunt is a js task runner
+
 
 
